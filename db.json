@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Saul Actualizado",
+      "empresa": "SaulDev",
+      "email": "saul@correo.com",
+      "telefono": "5529438382824",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Titanium",
+      "email": "karen@gmai.com",
+      "telefono": "83984728373",
+      "notas": "Recursos humanos",
+      "id": 2
+    },
+    {
+      "nombre": "Alicia",
+      "empresa": "Constructora",
+      "email": "Alicia@ccp.com",
+      "telefono": "930928238",
+      "notas": "End points faltantes",
+      "id": 3
+    },
+    {
+      "nombre": "Jhon",
+      "empresa": "altamesa",
+      "email": "jhon@security.com",
+      "telefono": "82826482904",
+      "notas": "Cuido a su perro",
+      "id": 4
+    },
+    {
+      "nombre": "Jhon",
+      "empresa": "UNSC",
+      "email": "jhon-chief@117.com",
+      "telefono": "892828372838",
+      "notas": "Requiere un sistema web",
+      "id": 5
+    }
+  ]
+}
